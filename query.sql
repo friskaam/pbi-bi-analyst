@@ -27,7 +27,7 @@ ADD CONSTRAINT Category FOREIGN KEY (Category)
 REFERENCES `pbi_biAnalyst_bankMuamalat.ProductCategory`(CategoryID) NOT ENFORCED;
 
 -- make table master (Transactions) --
-CREATE OR REPLACE TABLE `pbi_biAnalyst_bankMuamalat.Transaction` AS
+CREATE OR REPLACE TABLE `pbi_biAnalyst_bankMuamalat.master_table_Transactions` AS
 SELECT 
     o.Date AS order_date,
     pc.CategoryName AS category_name,
