@@ -1,4 +1,4 @@
-# Business Intelligence Analyst Internship - Bank Muamalat x Rakamin Academy Virtual Internship
+# Business Intelligence Analyst - Bank Muamalat x Rakamin Academy Virtual Internship
 
 ## Table of Contents
 
