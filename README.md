@@ -75,6 +75,8 @@ The project was divided into several key challenges:
 ## Conclusion
 
 This internship provided invaluable experience in the field of business intelligence, allowing me to apply my data analysis skills in a real-world banking context. It enhanced my knowledge in using tools like Google BigQuery and Looker Studio, as well as improved my ability to provide data-driven recommendations that support business growth.
+- **GitHub Repo**: [pbi-bi-analyst](https://github.com/friskaam/pbi-bi-analyst)
+- **Looker Studio Dashboard**: [Sales Performance Dashboard](https://s.id/SalesPerformanceDashboard)
 
 ## Let's Connect! 🌐  
 
